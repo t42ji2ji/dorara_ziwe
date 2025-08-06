@@ -1,0 +1,153 @@
+{
+  "app": {
+    "title": "Ziwe",
+    "description": "Turn big dreams into daily milestones. Ziwe combines smart reminders, calendar integration, and AI-powered goal breakdown to make every step count toward success.",
+    "createdBy": "Created by",
+    "copyright": "© 2025 Ziwe",
+    "contact": {
+      "email": "Support Email",
+      "twitter": "Twitter",
+      "threads": "Threads"
+    }
+  },
+  "buttons": {
+    "exploreFeatures": "Explore Features",
+    "count": "Count: {{count}}"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Your privacy is important to us. Here's how we protect it.",
+    "backToHome": "Back to Home",
+    "noDataCollection": {
+      "title": "No Data Collection",
+      "description": "We respect your privacy completely",
+      "content": "Ziwe does not collect, store, or transmit any personal data. We do not track your activities, collect your personal information, or send any data to external servers. Your privacy is fully protected."
+    },
+    "localStorage": {
+      "title": "Local Storage Only",
+      "description": "Data stays on your device",
+      "content": "Ziwe only uses your browser's local storage to save your preferences and settings. This data never leaves your device and is completely under your control. The information stored locally includes:",
+      "items": {
+        "theme": "Theme preferences (light/dark mode)",
+        "language": "Language settings",
+        "preferences": "Application preferences and settings"
+      }
+    },
+    "noThirdParty": {
+      "title": "No Third-Party Tracking",
+      "description": "No external services or analytics",
+      "content": "We do not use any third-party tracking services, analytics tools, or external APIs that could compromise your privacy. Ziwe operates entirely within your browser without any external connections."
+    },
+    "security": {
+      "title": "Security",
+      "description": "Your data is safe and secure",
+      "content": "Since we don't collect or store any data on our servers, there's no risk of data breaches or unauthorized access to your information. All your data remains securely on your own device."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Questions about our privacy policy?",
+      "content": "If you have any questions about this privacy policy or how we handle your information, please don't hesitate to contact us.",
+      "email": "Contact via Email"
+    },
+    "lastUpdated": "Last updated: January 2025"
+  },
+  "features": {
+    "title": "Features",
+    "backToHome": "Back to Home",
+    "powerfulFeatures": "Powerful Features",
+    "vercel": {
+      "title": "Vercel Deployment",
+      "description": "One-click deployment to Vercel. Just run a simple command in your terminal to deploy your app to production.",
+      "deploymentSteps": "Deployment Steps",
+      "installVercel": "1. Install Vercel CLI globally",
+      "deployCommand": "2. Deploy to Vercel",
+      "visitSite": "3. Visit your site",
+      "tryCommand": "Try the command",
+      "deploySuccess": "Deployment successful!",
+      "openInBrowser": "Open in browser"
+    },
+    "themeProvider": {
+      "title": "Theme Provider",
+      "description": "Built-in dark mode toggle with system preference detection and localStorage persistence. Based on shadcn's theme implementation using Tailwind's dark mode class strategy."
+    },
+    "tailwind": {
+      "title": "Tailwind CSS",
+      "description": "Utility-first CSS framework for rapid UI development. Create beautiful designs without leaving your HTML."
+    },
+    "framerMotion": {
+      "title": "Framer Motion",
+      "description": "Production-ready animation library for React. Create fluid animations with minimal code."
+    },
+    "shadcn": {
+      "title": "Shadcn/UI",
+      "description": "Beautifully designed components built with Radix UI and Tailwind CSS. Re-usable components that you can copy and paste into your apps."
+    },
+    "reactRouter": {
+      "title": "React Router",
+      "description": "Client-side routing for React applications. Navigate between views without full page reloads."
+    },
+    "lucide": {
+      "title": "Lucide React",
+      "description": "Beautiful & consistent icon toolkit for React applications. Over 1000 icons available."
+    },
+    "themeOptions": "Theme Options",
+    "currentTheme": "Current theme:",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggleTheme": "Toggle theme",
+    "simpleAndPowerful": "Simple & Powerful",
+    "animatedBox": "Animated Box",
+    "startAnimation": "Start Animation",
+    "stopAnimation": "Stop Animation",
+    "customCursor": {
+      "title": "Custom Cursor",
+      "description": "An interactive custom cursor that replaces the default mouse cursor with animated elements that respond to user interactions.",
+      "enable": "Enable Custom Cursor",
+      "cursorColor": "Cursor Color",
+      "lightModeColor": "Light Mode Color",
+      "hoverText": "Hover over elements to see different states",
+      "clickable": "Clickable",
+      "button": "Button"
+    },
+    "on": "On",
+    "off": "Off",
+    "i18next": {
+      "title": "i18next",
+      "description": "Powerful internationalization framework with support for multiple languages, plurals, context, and more.",
+      "languageOptions": "Language Options",
+      "currentLanguage": "Current Language",
+      "selected": "Selected",
+      "english": "English",
+      "chinese": "中文",
+      "example": "Translation Example",
+      "sampleText": "This is a sample text to demonstrate language switching."
+    },
+    "toast": {
+      "title": "React Hot Toast",
+      "description": "Lightweight, customizable toast notifications for React applications. Perfect for showing success, error, or information messages.",
+      "tryToast": "Try Toast Notifications",
+      "success": "Success Toast",
+      "error": "Error Toast",
+      "info": "Info Toast",
+      "warning": "Warning Toast",
+      "promise": "Promise Toast",
+      "loading": "Loading...",
+      "successMessage": "Operation completed successfully!",
+      "errorMessage": "Something went wrong!",
+      "infoMessage": "Here's some information for you.",
+      "warningMessage": "This is a warning message.",
+      "promiseMessage": "Processing your request...",
+      "positions": {
+        "title": "Toast Positions",
+        "description": "Try different toast positions",
+        "topLeft": "Top Left",
+        "topCenter": "Top Center",
+        "topRight": "Top Right",
+        "bottomLeft": "Bottom Left",
+        "bottomCenter": "Bottom Center",
+        "bottomRight": "Bottom Right"
+      }
+    }
+  }
+}
