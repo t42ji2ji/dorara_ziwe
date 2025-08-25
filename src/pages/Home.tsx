@@ -3,6 +3,8 @@ import { motion } from "framer-motion"
 import { Mail, Twitter } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
+import FAQ from '@/components/FAQ'
+import ContactForm from '@/components/ContactForm'
 
 
 const Home = () => {
@@ -11,9 +13,9 @@ const Home = () => {
     const titleChars = t("app.title").split("")
 
     return (
-        <div className="min-h-screen bg-background flex flex-col">
-            {/* Hero Section */}
-            <div className="flex flex-col items-center justify-center p-4 flex-grow">
+        <div className="bg-background">
+            {/* Hero Section - Full Height */}
+            <div className="min-h-screen flex flex-col items-center justify-center p-4">
                 <motion.div
                     initial={{ opacity: 0, y: -50 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -98,6 +100,17 @@ const Home = () => {
                     </div>
                 </motion.div>
             </div>
+            
+            {/* FAQ Section */}
+            <div className="container mx-auto py-16 px-4">
+                <FAQ />
+            </div>
+            
+            {/* Contact Form Section */}
+            <div className="container mx-auto py-16 px-4 bg-muted/30">
+                <ContactForm />
+            </div>
+            
             <footer className="container mx-auto py-8 px-4 border-t">
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <p className="text-muted-foreground">{t("app.copyright")}</p>

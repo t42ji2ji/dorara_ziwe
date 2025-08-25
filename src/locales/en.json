@@ -51,6 +51,41 @@
     },
     "lastUpdated": "Last updated: January 2025"
   },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "q1": {
+        "question": "What is Ziwe?",
+        "answer": "Ziwe is your personal AI life coach that helps you achieve your goals through personalized guidance, smart habit tracking, and actionable daily plans tailored to your journey."
+      },
+      "q2": {
+        "question": "How does Ziwe protect my privacy?",
+        "answer": "Ziwe doesn't collect, store, or transmit any personal data. All your information stays on your device using browser's local storage. We don't use any third-party tracking or analytics."
+      },
+      "q3": {
+        "question": "Can I customize my coaching experience?",
+        "answer": "Absolutely! Ziwe adapts to your personal goals, preferences, and schedule. You can customize your daily plans, habit tracking, and coaching style to match your needs."
+      },
+      "q4": {
+        "question": "How often should I use Ziwe?",
+        "answer": "We recommend checking in with Ziwe daily for best results. Even a few minutes each day can help you stay on track with your goals and build lasting habits."
+      }
+    }
+  },
+  "contactForm": {
+    "title": "Have More Questions?",
+    "subtitle": "We'd love to hear from you!",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Your Email",
+    "emailPlaceholder": "Enter your email",
+    "subject": "Subject",
+    "subjectPlaceholder": "What's this about?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us more about your question or feedback...",
+    "sendButton": "Send Message",
+    "sending": "Sending..."
+  },
   "features": {
     "title": "Features",
     "backToHome": "Back to Home",

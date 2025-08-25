@@ -51,6 +51,41 @@
     },
     "lastUpdated": "最後更新：2025年1月"
   },
+  "faq": {
+    "title": "常見問題",
+    "questions": {
+      "q1": {
+        "question": "Ziwe 是什麼？",
+        "answer": "Ziwe 是您的專屬 AI 人生教練，透過個人化指導、智能習慣追蹤和量身定制的每日計劃，幫助您實現目標。"
+      },
+      "q2": {
+        "question": "Ziwe 如何保護我的隱私？",
+        "answer": "Ziwe 不收集、存儲或傳輸任何個人數據。您的所有信息都保存在設備上的瀏覽器本地存儲中。我們不使用任何第三方追蹤或分析工具。"
+      },
+      "q3": {
+        "question": "我可以自定義我的教練體驗嗎？",
+        "answer": "當然可以！Ziwe 會根據您的個人目標、偏好和時間表進行調整。您可以自定義每日計劃、習慣追蹤和教練風格，以滿足您的需求。"
+      },
+      "q4": {
+        "question": "我應該多久使用一次 Ziwe？",
+        "answer": "我們建議每天使用 Ziwe 以獲得最佳效果。即使每天只花幾分鐘，也能幫助您保持目標進度並建立持久的習慣。"
+      }
+    }
+  },
+  "contactForm": {
+    "title": "還有更多問題？",
+    "subtitle": "我們很樂意聽到您的意見！",
+    "name": "您的姓名",
+    "namePlaceholder": "請輸入您的姓名",
+    "email": "您的電子郵件",
+    "emailPlaceholder": "請輸入您的電子郵件",
+    "subject": "主題",
+    "subjectPlaceholder": "這是關於什麼的？",
+    "message": "訊息",
+    "messagePlaceholder": "告訴我們更多關於您的問題或反饋...",
+    "sendButton": "發送訊息",
+    "sending": "發送中..."
+  },
   "features": {
     "title": "功能",
     "backToHome": "返回首頁",
